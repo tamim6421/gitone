@@ -1,3 +1,8 @@
 two
+<<<<<<< HEAD
 66
 vudai
+=======
+66 
+AMAR BAL
+>>>>>>> staging
